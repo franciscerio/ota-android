@@ -53,8 +53,6 @@ dependencies {
     implementation(project(":data"))
     implementation(project(":core-ui"))
 
-    implementation("androidx.compose.material3:material3:1.3.0-beta05")
-
     // Dagger - Hilt
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)

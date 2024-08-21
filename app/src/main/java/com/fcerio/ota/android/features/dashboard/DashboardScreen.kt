@@ -17,7 +17,6 @@ import com.fcerio.ota.android.presentation.ui.components.activity.ActivityItem
 import com.fcerio.ota.android.presentation.ui.components.activity.ActivityLevel
 import com.fcerio.ota.android.presentation.ui.components.tab.DateTabRow
 import kotlinx.coroutines.flow.Flow
-import timber.log.Timber
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
