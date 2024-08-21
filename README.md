@@ -1,3 +1,5 @@
+<img src="https://github.com/franciscerio/ota-android/blob/master/images/Screen%20Shot%202024-08-21%20at%208.33.27%20PM.png" width="450"/>
+
 # Requirements
 - Minimum SDK 26
 
