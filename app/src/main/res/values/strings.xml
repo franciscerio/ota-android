@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OTA-Android</string>
+    <string name="journey_icon_description">journey_icon</string>
+    <string name="taming_temper">Taming temper</string>
+    <string name="percentage_format">%d\%</string>
+
+    <string name="level_format">Level %d</string>
+</resources>
